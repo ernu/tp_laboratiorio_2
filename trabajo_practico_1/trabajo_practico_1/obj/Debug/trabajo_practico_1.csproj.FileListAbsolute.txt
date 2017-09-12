@@ -1,0 +1,10 @@
+D:\Facu\Programacion II\TP1\trabajo_practico_1\trabajo_practico_1\bin\Debug\trabajo_practico_1.exe.config
+D:\Facu\Programacion II\TP1\trabajo_practico_1\trabajo_practico_1\bin\Debug\trabajo_practico_1.exe
+D:\Facu\Programacion II\TP1\trabajo_practico_1\trabajo_practico_1\bin\Debug\trabajo_practico_1.pdb
+D:\Facu\Programacion II\TP1\trabajo_practico_1\trabajo_practico_1\obj\Debug\trabajo_practico_1.csprojResolveAssemblyReference.cache
+D:\Facu\Programacion II\TP1\trabajo_practico_1\trabajo_practico_1\obj\Debug\trabajo_practico_1.Form1.resources
+D:\Facu\Programacion II\TP1\trabajo_practico_1\trabajo_practico_1\obj\Debug\trabajo_practico_1.Properties.Resources.resources
+D:\Facu\Programacion II\TP1\trabajo_practico_1\trabajo_practico_1\obj\Debug\trabajo_practico_1.csproj.GenerateResource.Cache
+D:\Facu\Programacion II\TP1\trabajo_practico_1\trabajo_practico_1\obj\Debug\trabajo_practico_1.csproj.CoreCompileInputs.cache
+D:\Facu\Programacion II\TP1\trabajo_practico_1\trabajo_practico_1\obj\Debug\trabajo_practico_1.exe
+D:\Facu\Programacion II\TP1\trabajo_practico_1\trabajo_practico_1\obj\Debug\trabajo_practico_1.pdb
